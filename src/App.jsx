@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Home />
-      <Homepage1 />
+      {/* <Homepage1 /> */}
       <Homepage2 />
     </>
   );
